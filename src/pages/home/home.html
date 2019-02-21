@@ -1,14 +1,16 @@
-<ion-header>
-  <ion-navbar>
-    <ion-title>
-      Ionic Blank
-    </ion-title>
-  </ion-navbar>
-</ion-header>
-
 <ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+  <ion-card>
+    <ion-card-content>
+      <pdf-viewer [src]="urlCreated" [original-size]="false" [autoresize]="true" [page]="1" [show-all]="false" (after-load-complete)="afterLoad($event)"
+        style="display: block"></pdf-viewer>
+    </ion-card-content>
+  </ion-card>
 </ion-content>
+
+
+<ion-footer no-lines no-border>
+  <input type="file" #filePdfInput (change)="getDataPdf($event)" hidden>
+  <ion-toolbar color="whity">
+    <button ion-button full (click)="filePdfInput?.click()">Importer un pdf</button>
+  </ion-toolbar>
+</ion-footer>

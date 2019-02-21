@@ -7,8 +7,19 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
+  private urlCreated: string;
+
   constructor(public navCtrl: NavController) {
 
+  }
+
+
+  getDataPdf(event) {
+    this.urlCreated = URL.createObjectURL(event.target.files[0]);
+  }
+
+  afterLoad(event) {
+    console.log('event', event)
   }
 
 }
