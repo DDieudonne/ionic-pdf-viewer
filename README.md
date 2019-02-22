@@ -10,3 +10,5 @@ cette applis dans le cardre d'une application CHAT/MESSAGING 📱 et je voulais 
 🤔🤔🤔🤔 Pour plus de renseignements : ---> https://github.com/VadimDez/ng2-pdf-viewer/blob/HEAD/README.md
 
 🔥🔥🔥🔥🔥🔥🔥👍👍👍👍 FORCE A VOUS !
+
+https://github.com/DDieudonne/ionic-pdf-viewer/blob/master/localhost_8100_(iPhone%206_7_8)%20(1).png
