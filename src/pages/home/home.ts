@@ -10,7 +10,6 @@ export class HomePage {
   private urlCreated: string = null;
 
   constructor(public navCtrl: NavController) {
-    console.log('urlCreated',this.urlCreated)
   }
 
 
