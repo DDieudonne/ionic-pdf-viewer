@@ -1,16 +1,20 @@
 <ion-content padding>
-  <ion-card>
+  <ion-card *ngIf="urlCreated != null">
     <ion-card-content>
       <pdf-viewer [src]="urlCreated" [original-size]="false" [autoresize]="true" [page]="1" [show-all]="false" (after-load-complete)="afterLoad($event)"
         style="display: block"></pdf-viewer>
     </ion-card-content>
   </ion-card>
+  <div *ngIf="urlCreated == null">
+    <img src="assets/imgs/pdf.png" alt="">
+    <h3>Importer un fichier pdf</h3>
+  </div>
 </ion-content>
 
 
 <ion-footer no-lines no-border>
-  <input type="file" #filePdfInput (change)="getDataPdf($event)" hidden>
-  <ion-toolbar color="whity">
-    <button ion-button full (click)="filePdfInput?.click()">Importer un pdf</button>
+  <input type="file" #filePdfInput (change)="getDataPdf($event)"  accept="application/pdf" hidden>
+  <ion-toolbar color="light">
+    <button color="danger" ion-button round (click)="filePdfInput?.click()">Importer un pdf</button>
   </ion-toolbar>
 </ion-footer>

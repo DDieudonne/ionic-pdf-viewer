@@ -2,4 +2,11 @@ page-home {
     :host ::ng-deep .ng2-pdf-viewer-container {
         width: 100% !important;
     }
+    div{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        flex-direction: column;
+    }
 }
