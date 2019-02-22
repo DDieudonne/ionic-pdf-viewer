@@ -12,8 +12,8 @@ cette applis dans le cardre d'une application CHAT/MESSAGING 📱 et je voulais 
 🔥🔥🔥🔥🔥🔥🔥👍👍👍👍 FORCE A VOUS !
 
 
-<div style="display:flex;align-items:center;justify-content:space-around;background-color:red;width:100%;">
-  <img src="https://github.com/DDieudonne/ionic-pdf-viewer/blob/master/localhost_8100_(iPhone%206_7_8)%20(1).png" width="20%">
-  <img src="https://github.com/DDieudonne/ionic-pdf-viewer/blob/master/localhost_8100_(iPhone%206_7_8)%20(1).png" width="20%">
+<div style="display:flex;align-items:center;">
+  <img src="https://github.com/DDieudonne/ionic-pdf-viewer/blob/master/localhost_8100_(iPhone%206_7_8)%20(1).png" width="30%">
+  <img src="https://github.com/DDieudonne/ionic-pdf-viewer/blob/master/localhost_8100_(iPhone%206_7_8)%20(2).png" width="30%">
 </div>
 
