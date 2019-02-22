@@ -9,6 +9,7 @@ cette applis dans le cardre d'une application CHAT/MESSAGING 📱 et je voulais 
 
 🤔🤔🤔🤔 Pour plus de renseignements : ---> <a href="https://github.com/VadimDez/ng2-pdf-viewer/blob/HEAD/README.md" target="_blank">MORE INFORMATION</a>
 
+
 🔥🔥🔥🔥🔥🔥🔥👍👍👍👍 FORCE A VOUS !
 
 
