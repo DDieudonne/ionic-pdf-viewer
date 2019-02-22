@@ -1,4 +1,4 @@
-# ionic-pdf-viewer 📁📁
+# ionic-pdf-viewer (IONIC3 & IONIC4) 📁📁 
 
 📁 Afficher vos pdf importés directement de votre smartphone , dans ce cas il n'ya que la première page qui sera afficher, car j'ai developpé 
 cette applis dans le cardre d'une application CHAT/MESSAGING 📱 et je voulais juste afficher la premiere page.
