@@ -12,7 +12,6 @@ cette applis dans le cardre d'une application CHAT/MESSAGING 📱 et je voulais 
 🔥🔥🔥🔥🔥🔥🔥👍👍👍👍 FORCE A VOUS !
 
 
-https://ibb.co/NKw50hy
-
+![alt text](https://ibb.co/NKw50hy)
 
 https://ibb.co/bQg52df
